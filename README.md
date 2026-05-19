@@ -3,6 +3,10 @@
 ## 📌 Overview
 This project is part of the Deloitte Australia Data Analytics Job Simulation on Forage. It involves analyzing operational and employee data to derive meaningful insights.
 
+## 🏆 Certificate
+
+![Deloitte Certificate](Deloitte%20Certificate.png)
+
 ## 🛠 Tools Used
 - Microsoft Excel
 - Tableau
